@@ -6,7 +6,7 @@ I am currently a Ph.D. candidate at Sensing, Measuring & Robot Technology (SMART
 <code>liyb@cumt.edu.cn</code>  
 
 #### Education  
-**Jiangsu Normal University**, Master of 2023 (2019 – 2023)   
+**Jiangsu Normal University**, Bachelor of 2023 (2019 – 2023)   
 
 **China University of Mining and Technology**, Ph.D. candidate (2023 – Present)<br>  
 
