@@ -1,20 +1,13 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am currently a Ph.D. candidate at Sensing, Measuring & Robot Technology (SMART Lab), School of Mechanical and Electrical Engineering, China University of Mining and Technology, (CUMT), under the supervision of Prof. Gongbo Zhou. My research interests include image processing and computer vision, with a focus on environmental-equipment visual perception in complex and harsh environments, mechanical measurement, and robotics-related issues. If you are interested in my research, please feel free to contact me (any question / suggestion / collaboration).
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>liyb@cumt.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Jiangsu Normal University**, Master of 2023 (2019 – 2023)   
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**China University of Mining and Technology**, Ph.D. candidate (2023 – Present)<br>  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+ 

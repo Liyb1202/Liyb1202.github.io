@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- National Scholarship (The highest national wide scholarship for students in China), 2022.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Postgraduate Research & Practice Innovation Program of Jiangsu Province (No. KYCX25_2984)
